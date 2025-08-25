@@ -1,4 +1,4 @@
- Hi, I'm Laurence Solmoro  
+loo Hi, I'm Laurence Solmoro  
 
  Introduction  
 I'm a BSIT student that has a strong interest in software development and technology.  I'm currently learning the basics of programming and working on projects to improve my abilities.
@@ -10,6 +10,6 @@ I'm a BSIT student that has a strong interest in software development and techno
 - Build projects that can help people in real life  
 
  Skills  
-- Beginner in **Python** and **SQL**  
+- Beginner in **Python**
 - Familiar with **HTML** and **CSS**  
 - Currently learning **Phyton** and **Flask** 
