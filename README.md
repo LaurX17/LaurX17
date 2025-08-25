@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**LaurX17/LaurX17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Laurence Solmoro  
 
-Here are some ideas to get you started:
+🌟 Introduction  
+I'm a BSIT student that has a strong interest in software development and technology.  I'm currently learning the basics of programming and working on projects to improve my abilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals  
+- Learn and practice web development (HTML, CSS)  
+- Improve my problem-solving skills through coding challenges  
+- Explore Python for data science and automation  
+- Build projects that can help people in real life  
+
+🚀 Skills  
+- Beginner in **Python** and **SQL**  
+- Familiar with **HTML** and **CSS**  
+- Currently learning **Phyton** and **Flask** 
